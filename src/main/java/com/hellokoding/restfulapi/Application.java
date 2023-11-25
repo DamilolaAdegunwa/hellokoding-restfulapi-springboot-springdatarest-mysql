@@ -9,3 +9,5 @@ public class Application {
         SpringApplication.run(Application.class, args);
     }
 }
+//https://github.com/DamilolaAdegunwa/hellokoding-restfulapi-springboot-springdatarest-mysql
+//https://github.com/hellokoding/restfulapi-springboot-springdatarest-mysql
